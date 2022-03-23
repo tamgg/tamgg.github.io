@@ -1,0 +1,31 @@
+body{
+    background-color: #E4D7F8;
+    margin: 20px;
+    text-align: center; 
+    border: 2px solid powderblue;
+    font-family: verdana;
+     font-size: 120%;
+}
+
+gracey{
+    width: 50%;
+    position: fixed;
+    text-align: center;
+
+}
+grace2{
+    width: 50%;
+    position: fixed;
+    text-align: center;
+
+}
+amarya{
+    width: 50%;
+    position: fixed;
+    text-align: center;
+
+}
+
+nav {
+    color: white;
+}
